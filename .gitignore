@@ -1,0 +1,70 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+
+# Distribution / packaging
+build/
+dist/
+wheels/
+.eggs/
+MANIFEST
+
+# Unit test / coverage reports
+.coverage
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.mo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# =========================
+# Secrets & Credentials
+# =========================
+.env
+.env.*
+*.secret
+secrets.json
+config.json
+settings.json
+
+# =========================
+# Telethon / Session Files
+# =========================
+session*
+*.session
+*.session-journal
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+.idea/
+.vscode/
+*.swp
+*.swo

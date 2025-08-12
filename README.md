@@ -56,7 +56,7 @@ git clone https://github.com/jarvishdinocent/socialmedia-to-misp.git
 cd socialmedia-to-misp
 pip install -r requirements.txt
 ```
-```Tip: Use a virtual environment:
+## Tip: Use a virtual environment:
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt

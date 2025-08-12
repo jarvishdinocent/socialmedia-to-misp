@@ -1,0 +1,6 @@
+praw
+pymisp
+telethon
+requests
+urllib3
+feedparser
